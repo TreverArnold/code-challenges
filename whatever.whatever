@@ -1,0 +1,8 @@
+total 24
+drwxrwxr-x 3 treverarnold treverarnold 4096 Aug 23 09:44 .
+drwxrwxr-x 3 treverarnold treverarnold 4096 Aug 23 08:03 ..
+drwxrwxr-x 8 treverarnold treverarnold 4096 Aug 23 09:42 .git
+-rw-rw-r-- 1 treverarnold treverarnold 2047 Aug 23 08:03 .gitignore
+-rw-rw-r-- 1 treverarnold treverarnold 1069 Aug 23 08:03 LICENSE
+-rw-rw-r-- 1 treverarnold treverarnold   17 Aug 23 08:03 README.md
+-rw-rw-r-- 1 treverarnold treverarnold    0 Aug 23 09:48 whatever.whatever
