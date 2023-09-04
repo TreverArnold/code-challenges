@@ -1,4 +1,4 @@
-from pages_code import pages
+from pages import pages
 
 def test_pages():
     assert pages(2,5) == 10
