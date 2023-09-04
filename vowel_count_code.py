@@ -1,4 +1,7 @@
-import re
-
 def vowel_count(string):
-    return len(re.findall(r'[aeiouAEIOU]', string))
+    vowels = "aeiouAEIOU"
+    count = 0
+    for letter in string:
+        if letter in vowels:
+            count += 1
+    return(count)
