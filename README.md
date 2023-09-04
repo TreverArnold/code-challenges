@@ -1,4 +1,3 @@
-# code-challenges
 # Code Challenges
 ## Code Wars
 ### CamelCase Method (6kyu)
