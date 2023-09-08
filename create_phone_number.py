@@ -1,3 +1,3 @@
 def create_phone_number(num):
-    result_str = ''.join([str(digit) for digit in num])
-    return f'({result_str[:3]}) {result_str[3:6]}-{result_str[6:]}'
+    result = ''.join([str(digit) for digit in num])
+    return f'({result[:3]}) {result[3:6]}-{result[6:]}'
