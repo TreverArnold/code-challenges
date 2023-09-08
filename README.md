@@ -8,3 +8,7 @@
   * Module: `code-challenges/bouncing_balls.py`
   * Tests: `code-challenges/bouncing_balls_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/5544c7a5cb454edb3c000047)
+### Create Phone Number (6kyu)
+  * Module: `code-challenges/create_phone_number.py`
+  * Tests: `code-challenges/create_phone_number_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
