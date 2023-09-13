@@ -13,6 +13,10 @@
   * Tests: `code-challenges/create_phone_number_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/525f50e3b73515a6db000b83)
 ### Break CamelCase (6kyu)
+  * Module: `code-challenges/two_sum.py`
+  * Tests: `code-challenges/two_sum_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/5208f99aee097e6552000148)
+### Two Sum (6kyu)
   * Module: `code-challenges/break_camel_case.py`
   * Tests: `code-challenges/break_camel_case_test.py`
-  * URL: [challenge url](https://www.codewars.com/kata/5208f99aee097e6552000148)
+  * URL: [challenge url](https://www.codewars.com/kata/52c31f8e6605bcc646000082)
