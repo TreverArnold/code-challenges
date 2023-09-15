@@ -32,3 +32,7 @@
   * Module: `code-challenges/hashtag_generator.py`
   * Tests: `code-challenges/hashtag_generator_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/52449b062fb80683ec000024)
+### Pete The Baker (5kyu)
+  * Module: `code-challenges/cakes.py`
+  * Tests: `code-challenges/cakes_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/525c65e51bf619685c000059)
