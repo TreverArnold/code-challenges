@@ -28,7 +28,15 @@
   * Module: `code-challenges/best_travel.py`
   * Tests: `code-challenges/best_travel_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)
+### Hashtag Generator (5kyu)
+  * Module: `code-challenges/hashtag_generator.py`
+  * Tests: `code-challenges/hashtag_generator_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/52449b062fb80683ec000024)
 ### Pete The Baker (5kyu)
   * Module: `code-challenges/cakes.py`
   * Tests: `code-challenges/cakes_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/525c65e51bf619685c000059)
+### Not Very Secure (5kyu)
+  * Module: `code-challenges/not_very_secure.py`
+  * Tests: `code-challenges/not_very_secure_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
