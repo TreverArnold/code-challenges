@@ -28,6 +28,10 @@
   * Module: `code-challenges/best_travel.py`
   * Tests: `code-challenges/best_travel_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)
+### Hashtag Generator (5kyu)
+  * Module: `code-challenges/hashtag_generator.py`
+  * Tests: `code-challenges/hashtag_generator_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/52449b062fb80683ec000024)
 ### Pete The Baker (5kyu)
   * Module: `code-challenges/cakes.py`
   * Tests: `code-challenges/cakes_test.py`
