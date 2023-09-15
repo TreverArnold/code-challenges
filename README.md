@@ -40,3 +40,4 @@
   * Module: `code-challenges/not_very_secure.py`
   * Tests: `code-challenges/not_very_secure_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
+
