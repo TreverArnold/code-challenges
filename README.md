@@ -28,3 +28,7 @@
   * Module: `code-challenges/best_travel.py`
   * Tests: `code-challenges/best_travel_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/55e7280b40e1c4a06d0000aa)
+### Pete The Baker (5kyu)
+  * Module: `code-challenges/cakes.py`
+  * Tests: `code-challenges/cakes_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/525c65e51bf619685c000059)
