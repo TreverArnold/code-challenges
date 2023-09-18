@@ -40,4 +40,7 @@
   * Module: `code-challenges/not_very_secure.py`
   * Tests: `code-challenges/not_very_secure_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/526dbd6c8c0eb53254000110)
-
+### Human Readable Time (4kyu)
+  * Module: `code-challenges/readable_time.py`
+  * Tests: `code-challenges/readable_time_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/52742f58faf5485cae000b9a)
