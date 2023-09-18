@@ -36,3 +36,7 @@
   * Module: `code-challenges/cakes.py`
   * Tests: `code-challenges/cakes_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/525c65e51bf619685c000059)
+### Human Readable Time (4kyu)
+  * Module: `code-challenges/readable_time.py`
+  * Tests: `code-challenges/readable_time_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/52742f58faf5485cae000b9a)

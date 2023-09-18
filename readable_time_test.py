@@ -1,4 +1,4 @@
-from readable_code import make_readable
+from readable_time import make_readable
 
 
 def test_make_readable():
