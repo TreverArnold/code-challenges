@@ -2,10 +2,8 @@ import itertools
 
 
 def permutations(text):
+    if len(text) == 1:
+        return [text]
+
     letter_list = [letter for letter in text]
-    permutations = list(itertools.permutations(letter_list))
-    unique_perms = set(permutations)
-    result = []
-    for perm in unique_perms:
-        result.append("".join(perm))
-    return result
+    return list({"".join(perm) for perm in itertools.permutations(letter_list)})
