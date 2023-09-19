@@ -48,4 +48,8 @@
   * Module: `code-challenges/sum_strings.py`
   * Tests: `code-challenges/sum_strings_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/5324945e2ece5e1f32000370)
+### Permutations (4kyu)
+  * Module: `code-challenges/permutations.py`
+  * Tests: `code-challenges/permutations_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
 
