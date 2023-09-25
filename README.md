@@ -52,4 +52,7 @@
   * Module: `code-challenges/permutations.py`
   * Tests: `code-challenges/permutations_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
-
+### Sudoku (3kyu)
+  * Module: `code-challenges/sudoku.py`
+  * Tests: `code-challenges/sudoku_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/5296bc77afba8baa690002d7)
