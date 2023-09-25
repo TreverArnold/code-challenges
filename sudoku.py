@@ -16,6 +16,7 @@ def is_valid(num, row, col, puzzle):
 
     return True
 
+
 def solve(puzzle):
     for row in range(9):
         for col in range(9):
@@ -28,6 +29,7 @@ def solve(puzzle):
                         puzzle[row][col] = 0
                 return False
     return True
+
 
 def sudoku(puzzle):
     if solve(puzzle):
