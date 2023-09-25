@@ -52,6 +52,10 @@
   * Module: `code-challenges/permutations.py`
   * Tests: `code-challenges/permutations_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
+### String to int (4kyu)
+  * Module: `code-challenges/string_to_int.py`
+  * Tests: `code-challenges/string_to_int_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
 ### Sudoku (3kyu)
   * Module: `code-challenges/sudoku.py`
   * Tests: `code-challenges/sudoku_test.py`
