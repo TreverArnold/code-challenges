@@ -56,6 +56,10 @@
   * Module: `code-challenges/string_to_int.py`
   * Tests: `code-challenges/string_to_int_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5)
+### Warrior (4kyu)
+  * Module: `code-challenges/warrior.py`
+  * Tests: `code-challenges/warrior_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/5941c545f5c394fef900000c)
 ### Sudoku (3kyu)
   * Module: `code-challenges/sudoku.py`
   * Tests: `code-challenges/sudoku_test.py`
