@@ -1,0 +1,22 @@
+{
+    "name": "code-challenges-javascript",
+    "version": "1.0.0",
+    "description": "code-challenges javascript",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/TreverArnold/code-challenges-javaScript"
+    },
+    "author": "",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/TreverArnold/code-challenges-javascript"
+    },
+    "homepage": "https://github.com/TreverArnold/code-challenges-javascript#readme",
+    "devDependencies": {
+      "jest": "^29.7.0"
+    }
+  }
