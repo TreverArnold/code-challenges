@@ -1,4 +1,4 @@
-# Code Challenges
+# Python Code Challenges
 ## Code Wars
 ### CamelCase Method (6kyu)
   * Module: `code-challenges/camel_case.py`

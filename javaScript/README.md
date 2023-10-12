@@ -1,4 +1,4 @@
-# Code Challenges
+# JavaScript Code Challenges
 ## Code Wars
 ### Create Phone Number (5kyu)
   * Module: `code-challenges-javaScript/create.phone.number.js`
