@@ -64,3 +64,7 @@
   * Module: `code-challenges/sudoku.py`
   * Tests: `code-challenges/sudoku_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/5296bc77afba8baa690002d7)
+### Speeding Penalty (5kyu)
+  * Module: `code-challenges/python/speeding_penalty.py`
+  * Tests: `code-challenges/python/speeding_penalty_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/5a05a4d206d5b61ba70000f9)
