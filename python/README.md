@@ -68,3 +68,8 @@
   * Module: `code-challenges/python/speeding_penalty.py`
   * Tests: `code-challenges/python/speeding_penalty_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/5a05a4d206d5b61ba70000f9)
+### Sort Animals (6kyu)
+  * Module: `code-challenges/python/sort_animals.py`
+  * Tests: `code-challenges/python/sort_animals_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/58ff1c8b13b001a5a50005b4)
+
