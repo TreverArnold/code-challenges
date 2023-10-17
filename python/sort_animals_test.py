@@ -1,4 +1,10 @@
-from sort_animals import Animal, sort_animals
+from sort_animals import sort_animals
+
+
+class Animal:
+    def __init__(self, name, number_of_legs):
+        self.name = name
+        self.number_of_legs = number_of_legs
 
 
 def test_animals():
