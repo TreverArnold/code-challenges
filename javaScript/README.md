@@ -8,3 +8,7 @@
   * Module: `code-challenges/javaScript/find.smallest.js`
   * Tests: `code-challenges/javaScript/find.smallest.test.js`
   * URL: [challenge url](https://www.codewars.com/kata/573992c724fc289553000e95)
+### Array Diff (6kyu)
+  * Module: `code-challenges/javaScript/arr.diff.js`
+  * Tests: `code-challenges/javaScript/arr.diff.test.js`
+  * URL: [challenge url](https://www.codewars.com/kata/523f5d21c841566fde000009)
