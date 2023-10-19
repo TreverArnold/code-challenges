@@ -68,8 +68,11 @@
   * Module: `code-challenges/python/speeding_penalty.py`
   * Tests: `code-challenges/python/speeding_penalty_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/5a05a4d206d5b61ba70000f9)
+### Directions Reduction (5kyu)
+  * Module: `code-challenges/python/dir_reduc.py`
+  * Tests: `code-challenges/python/dir_reduc_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/550f22f4d758534c1100025a)
 ### Sort Animals (6kyu)
   * Module: `code-challenges/python/sort_animals.py`
   * Tests: `code-challenges/python/sort_animals_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/58ff1c8b13b001a5a50005b4)
-
