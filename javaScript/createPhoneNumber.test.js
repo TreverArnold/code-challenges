@@ -1,4 +1,4 @@
-const code = require('./create.phone.number.js')
+const code = require('./createPhoneNumber.js')
 
 test('makes a valid phone number', () => {
     expect(code([1, 2, 3, 4, 5, 6, 7, 8, 9, 1])).toBe('(123) 456-7891')

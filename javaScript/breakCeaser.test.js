@@ -1,4 +1,4 @@
-const breakCaesar = require('./break.ceaser.js')
+const breakCaesar = require('./breakCeaser.js')
 
 test('breakes caeser', () => {
     expect(breakCaesar("Mjqqt, btwqi!")).toStrictEqual(5)

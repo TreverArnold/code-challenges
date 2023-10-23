@@ -1,4 +1,4 @@
-const code = require('./find.smallest.js')
+const code = require('./findSmallest.js')
 
 test('returns smallest number possible by moving one digit', () => {
     expect(code(261235)).toStrictEqual([126235, 2, 0])
