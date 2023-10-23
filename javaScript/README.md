@@ -12,3 +12,7 @@
   * Module: `code-challenges/javaScript/arr.diff.js`
   * Tests: `code-challenges/javaScript/arr.diff.test.js`
   * URL: [challenge url](https://www.codewars.com/kata/523f5d21c841566fde000009)
+### ROT13 (5kyu)
+  * Module: `code-challenges/javaScript/rot13.js`
+  * Tests: `code-challenges/javaScript/rot13.test.js`
+  * URL: [challenge url](https://www.codewars.com/kata/52223df9e8f98c7aa7000062)
