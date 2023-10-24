@@ -76,3 +76,7 @@
   * Module: `code-challenges/python/sort_animals.py`
   * Tests: `code-challenges/python/sort_animals_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/58ff1c8b13b001a5a50005b4)
+### Pop Blocks (6kyu)
+  * Module: `code-challenges/python/popping_blocks.py`
+  * Tests: `code-challenges/python/popping_blocks_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/651bfcbcdb0e8b104175b97e)
