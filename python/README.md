@@ -80,3 +80,7 @@
   * Module: `code-challenges/python/popping_blocks.py`
   * Tests: `code-challenges/python/popping_blocks_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/651bfcbcdb0e8b104175b97e)
+### Sum of Intervals (4kyu)
+  * Module: `code-challenges/python/sum_of_intervals.py`
+  * Tests: `code-challenges/python/sum_of_intervals_test.py`
+  * URL: [challenge url](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
