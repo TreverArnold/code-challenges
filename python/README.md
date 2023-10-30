@@ -84,3 +84,7 @@
   * Module: `code-challenges/python/sum_of_intervals.py`
   * Tests: `code-challenges/python/sum_of_intervals_test.py`
   * URL: [challenge url](https://www.codewars.com/kata/52b7ed099cdc285c300001cd)
+### Observed Pin (4kyu)
+  * Module: `code-challenges/python/observed_pin.py`
+  * Tests: `code-challenges/python/observed_pin.py`
+  * URL: [challenge url](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
