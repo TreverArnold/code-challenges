@@ -20,3 +20,7 @@
   * Module: `code-challenges/javaScript/easyChallenge.js`
   * Tests: `code-challenges/javaScript/easyChallenge.test.js`
   * URL: [challenge url](https://www.codewars.com/kata/5873b2010565844b9100026d)
+### Twice Linear (4kyu)
+  * Module: `code-challenges/javaScript/twiceLinear.js`
+  * Tests: `code-challenges/javaScript/twiceLinear.test.js`
+  * URL: [challenge url](https://www.codewars.com/kata/5672682212c8ecf83e000050)
