@@ -24,3 +24,7 @@
   * Module: `code-challenges/javaScript/twiceLinear.js`
   * Tests: `code-challenges/javaScript/twiceLinear.test.js`
   * URL: [challenge url](https://www.codewars.com/kata/5672682212c8ecf83e000050)
+### Rotate Matrix (4kyu)
+  * Module: `code-challenges/javaScript/rotateMatrix.js`
+  * Tests: `code-challenges/javaScript/rotateMatrix.test.js`
+  * URL: [challenge url](https://www.codewars.com/kata/525a566985a9a47bc8000670)
